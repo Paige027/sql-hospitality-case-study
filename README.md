@@ -42,9 +42,3 @@ A SQL case study exploring bookings and revenue patterns for a hospitality busin
 1. Load the sample data into a SQL database (MySQL/PostgreSQL/etc.).  
 2. Open the `.sql` files in the `sql/` folder.  
 3. Run each query in sequence to reproduce the analysis.
-
-## ✅ Key Outcomes
-
-- Demonstrates strong SQL skills for analytics roles.  
-- Shows ability to work with relational schemas and business questions.  
-- Good example to reference in interviews for SQL-heavy positions.
